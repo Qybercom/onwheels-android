@@ -17,7 +17,6 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         prepareMap();
-
     }
 
     private void prepareMap() {

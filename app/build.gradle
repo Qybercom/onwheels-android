@@ -24,4 +24,5 @@ dependencies {
     compile 'com.google.android.gms:play-services:5.+'
 
     compile 'com.mcxiaoke.volley:library:1.0.6'
+    compile project(':app:projectlibs:facebook-android-sdk-3.15.0:facebook')
 }

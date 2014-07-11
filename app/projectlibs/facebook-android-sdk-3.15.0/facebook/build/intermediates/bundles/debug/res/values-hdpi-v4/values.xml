@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/nika/Work/OnWheels/app/projectlibs/facebook-android-sdk-3.15.0/facebook/res/values-hdpi/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="com_facebook_picker_divider_width">1px</dimen>
+
+</resources>
